@@ -4,76 +4,50 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+A Academy Store é uma aplicação Front-end web desenvolvida como projeto de conclusão do curso denominado Infra-Code-Academy,curso desenvolvido em uma parceria entre a empresa de e-commerce [infra-commerce](https://www.infracommerce.com.br/) e a plataforma de cursos [Codelande](https://codeland.com.br/) 
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em um site de produtos eletronicos ,composto por :vitrine de produtos ,opções de cadastro e login de usuario ,barra de busca de produtos e carrinho de compras .
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1] *inserir imagem* ![Mobile 2] *inserir imagem*
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1] *inserir imagem*
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Web 2] *inserir imagem*
 
 # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+
 ## Front end
-- HTML / CSS / JS / TypeScript
+
+- HTML
+- CSS
+- JavaScript
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
+  
 # Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
 
 ## Front end web
 Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Junior-Caetano/projetofinal-grupo3
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto descrito projetofinal-grupo3
+cd projetofinal-grupo3
 
 # instalar dependências
-yarn install
+
+npm install react-scripts
+npm install react-router-dom
+npm install react-icons
 
 # executar o projeto
-yarn start
+npm start
 ```
 
-# Autor
+# Autores
 
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+Junior Silva Caetano / Misaias Reis / Eric de Sousa
 
