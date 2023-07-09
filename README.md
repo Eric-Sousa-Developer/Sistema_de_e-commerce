@@ -8,14 +8,6 @@ A Academy Store é uma aplicação Front-end web desenvolvida como projeto de co
 
 A aplicação consiste em um site de produtos eletronicos ,composto por :vitrine de produtos ,opções de cadastro e login de usuario ,barra de busca de produtos e carrinho de compras .
 
-## Layout mobile
-![Mobile 1] *inserir imagem* ![Mobile 2] *inserir imagem*
-
-## Layout web
-![Web 1] *inserir imagem*
-
-![Web 2] *inserir imagem*
-
 # Tecnologias utilizadas
 
 ## Front end
