@@ -1,6 +1,6 @@
 # Sistema_de_e-commerce
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Eric-Sousa-Developer/Sistema_de_e-commerce/blob/main/LICENSE) 
 
 # Sobre o projeto
 
